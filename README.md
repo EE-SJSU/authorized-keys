@@ -1,4 +1,4 @@
-> TODO: Create a backup SSH key-pair on a secure USB drive in case all other keys (Jagadeesh, Nathan, Ansible server) are lost.
+> **TODO**: Create a backup SSH key-pair on a secure USB drive in case all other keys (Jagadeesh, Nathan, Ansible server) are lost.
 
 # authorized-keys
 
