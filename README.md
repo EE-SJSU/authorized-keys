@@ -1,3 +1,5 @@
+> TODO: Create a backup SSH key-pair on a secure USB drive in case all other keys (Jagadeesh, Nathan, Ansible server) are lost.
+
 # authorized-keys
 
 This repository manages SSH public keys used to authenticate developers on all EE-SJSU Ansible-managed machines. Add your public key here to gain access — an admin will propagate it to all target machines.
